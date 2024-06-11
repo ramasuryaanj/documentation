@@ -1,3 +1,4 @@
+![1000167531](https://github.com/pterodactyl/documentation/assets/169916714/732db432-4b37-46fb-9000-3619506d30f3)
 # Community Standards
 
 <!--
